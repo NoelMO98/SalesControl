@@ -8,6 +8,8 @@ customer_status bit,
 constraint pk_customers primary key (customer_name,customer_address)
 )
 
+insert into CUSTOMERS values('VENTA GENERAL','VENTA GENERAL',0)
+
 create table TELEPHONES(
 customer_name nvarchar(80) not null,
 customer_address nvarchar(100) not null,
