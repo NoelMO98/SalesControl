@@ -1,0 +1,41 @@
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\bin\Debug\ControlVentas.exe.config
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\bin\Debug\ControlVentas.exe
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\bin\Debug\ControlVentas.pdb
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\bin\Debug\Guna.UI.dll
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormMain.resources
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.Properties.Resources.resources
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.csproj.GenerateResource.cache
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.csproj.CoreCompileInputs.cache
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.csproj.CopyComplete
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.exe
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.pdb
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormToSell.resources
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormEditOrder.resources
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormEndSale.resources
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormCustomers.resources
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.MaskedTextBoxesTelephone.resources
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.csprojAssemblyReference.cache
+C:\Users\Yimsito\Desktop\Prueba\Proyecto\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormNewCustomer.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormNewCustomer.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormEndSale.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormMain.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormEditOrder.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormCustomers.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormToSell.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.MaskedTextBoxesTelephone.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.Properties.Resources.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.csproj.GenerateResource.cache
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.csproj.CoreCompileInputs.cache
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.exe
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.pdb
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormReminder.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\bin\Debug\ControlVentas.exe.config
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\bin\Debug\ControlVentas.exe
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\bin\Debug\ControlVentas.pdb
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\bin\Debug\Guna.UI.dll
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.csproj.CopyComplete
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormAccumulatedAmounts.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormCustomerOrders.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormFilteredCustomers.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.PresentationLayer.FormSalesControl.resources
+C:\Users\Yimsito\OneDrive - Instituto Tecnológico de Tehuacán\8 semestre\Taller de investigación II\ControlVentas\obj\Debug\ControlVentas.csproj.AssemblyReference.cache
